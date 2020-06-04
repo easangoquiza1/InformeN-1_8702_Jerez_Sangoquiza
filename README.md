@@ -25,4 +25,4 @@ OBJETIVOS
  
  DIAGRAMAS
 
-![] (https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/img%205.jpg)
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/img%205.jpg)
