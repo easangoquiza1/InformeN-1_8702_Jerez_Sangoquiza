@@ -24,4 +24,4 @@ OBJETIVOS
    Por otra parte, la LTK determina que la sumatoria de los voltajes de todos los componentes del circuito, deberán ser igual a cero. 
  
  DIAGRAMAS
- ![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/img%201.jpg)
+ ![] (https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/img%205.jpg)
