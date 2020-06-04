@@ -23,4 +23,5 @@ OBJETIVOS
    Por la LCK se puede apreciar que cualquier cantidad de corriente que entre por el nodo de un circuito, será la misma que la que sale de este. De este modo, la integración de una corriente respecto al tiempo nos resultará una carga. Cabe mencionar que las cargas no se almacenan en un nodo, por lo que deberá cumplir con el mismo criterio que en las corrientes.  
    Por otra parte, la LTK determina que la sumatoria de los voltajes de todos los componentes del circuito, deberán ser igual a cero. 
  
-![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/img%201.jpg)
+ DIAGRAMAS
+ ![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/img%201.jpg)
