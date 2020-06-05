@@ -88,9 +88,14 @@ BIBLIOGRAFIA
 -Richard C. Dorf y James A. Svoboda. (2006). Introduccion Circuitos Electronicos. 6ta Ed. John Willey & Sons, Inc. Mexico D.F.
 
 ANEXOS
+
 REPRESENTACIÓN DE LAS CORRIENTES EN EL CIRCUITO:
 
 ![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/Imgn1ci.png)
+
+REPRESENTACIÓN DE LOS VOLTAJES DEL CIRCUITO:
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/imgn2ci.png)
 
 HOJAS TECNICAS
 
