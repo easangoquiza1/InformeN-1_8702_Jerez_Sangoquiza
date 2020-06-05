@@ -1,0 +1,8 @@
+Nombre,Cantidad,Componente
+"PFuente DC, PFuente DC1",2,"10 , 5  Suministro de energía"
+"RR1, R R1",2,"1 kΩ Resistencia"
+"RR3, RR4, R R3, RR41",4,"2.2 kΩ Resistencia"
+"RR5, R R5",2,"1.8 kΩ Resistencia"
+"Meter VR 1, Meter VR 2, Meter VR 3, Meter VR 5, Meter VR 4",5,"Voltaje Multímetro"
+"RR21",1,"3.9 kΩ Resistencia"
+"Meter IR 1, Meter IR 2, Meter IR 5, Meter IR 3 - IR 4",4,"Amperaje Multímetro"
