@@ -76,13 +76,15 @@ RECOMENDACIONES
 
 CRONOGRAMA
 
-![](
+![](https://github.com/BraddJCJ/adsf/blob/master/image.png)
+
 
 BIBLIOGRAFIA
 
 -Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F. 
 
 -Richard C. Dorf y James A. Svoboda. (2006). Introduccion Circuitos Electronicos. 6ta Ed. John Willey & Sons, Inc. Mexico D.F.
+
 
 
 
