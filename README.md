@@ -1,4 +1,7 @@
-UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE  
+UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/sello.jpg)
+
 ¨Práctica N°1 de Laboratorio¨  
 ¨Fundamentos de Circuitos Eléctricos¨  
 Integrantes: Jerez Bradd; Sangoquiza Andrés.  
@@ -76,7 +79,7 @@ RECOMENDACIONES
 
 CRONOGRAMA
 
-![](https://github.com/BraddJCJ/adsf/blob/master/image.png)
+![](
 
 BIBLIOGRAFIA
 
@@ -84,14 +87,58 @@ BIBLIOGRAFIA
 
 -Richard C. Dorf y James A. Svoboda. (2006). Introduccion Circuitos Electronicos. 6ta Ed. John Willey & Sons, Inc. Mexico D.F.
 
-ANEXOS:
-REPRESENTACIÓN DE LAS CORRIENTES EN EL CIRCUITO:
+HOJAS TECNICAS
 
-![]( https://github.com/BraddJCJ/adsf/blob/master/image.png)
+Arme el circuito que se muestra en la figura 1.1. 
 
-REPRESENTACIÓN DE LOS VOLTAJES DEL CIRCUITO:
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/circuito.jpg)
 
-![](https://github.com/BraddJCJ/adsf/blob/master/image.png)
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/tabla%201.jpg)
+
+Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2. 
+
+Tabla 1.2. Verificación de la LVK. 
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/tabla%202.jpg)
+
+Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
+
+Tabla 1.3. Verificación de la LCK. 
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/tabla%203.jpg)
+
+
+Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto. 
+ 
+ ![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/formula.jpg)
+ 
+Calculo de error en las mediciones realizadas:
+
+-VOLTAJES
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/ERROR.jpg)
+
+-CORRIENTES
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/ERROR2.jpg)
+
+CALCULOS
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/img129_page-0001.jpg)
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/img130_page-0001.jpg)
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/img131_page-0001.jpg)
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/img132_page-0001.jpg)
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/img133_page-0001.jpg)
+
+
+
+
 
  
 
