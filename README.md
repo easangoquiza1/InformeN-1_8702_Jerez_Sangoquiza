@@ -29,7 +29,7 @@ OBJETIVOS
 
 LISTA DE COMPONENTES
 
-![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/Sin%20t%C3%ADtulo.jpg)
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/HOLA.jpg)
 
 MAPA DE VARIABLES
 
@@ -76,15 +76,13 @@ RECOMENDACIONES
 
 CRONOGRAMA
 
-![](https://github.com/BraddJCJ/adsf/blob/master/image.png)
-
+![](
 
 BIBLIOGRAFIA
 
 -Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F. 
 
 -Richard C. Dorf y James A. Svoboda. (2006). Introduccion Circuitos Electronicos. 6ta Ed. John Willey & Sons, Inc. Mexico D.F.
-
 
 
 
