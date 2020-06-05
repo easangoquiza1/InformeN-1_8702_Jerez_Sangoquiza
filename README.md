@@ -29,9 +29,4 @@ OBJETIVOS
 
 LISTA DE COMPONENTES
 
-|Multimetro|
-|Resistencias|
-|Protoboard|
-|Fuente de Voltaje DC|
-
-
+| jkjhl |
