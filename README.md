@@ -86,7 +86,12 @@ BIBLIOGRAFIA
 
 ANEXOS:
 REPRESENTACIÓN DE LAS CORRIENTES EN EL CIRCUITO:
-![](
+
+![]( https://github.com/BraddJCJ/adsf/blob/master/image.png)
+
+REPRESENTACIÓN DE LOS VOLTAJES DEL CIRCUITO:
+
+![](https://github.com/BraddJCJ/adsf/blob/master/image.png)
 
  
 
