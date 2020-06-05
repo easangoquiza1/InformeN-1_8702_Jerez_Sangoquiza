@@ -79,7 +79,7 @@ RECOMENDACIONES
 
 CRONOGRAMA
 
-![](https://github.com/BraddJCJ/adsf/blob/master/image.png)
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/Cronograma%20-%20Excel%204_6_2020%2020_20_11%20(2).png)
 
 
 
