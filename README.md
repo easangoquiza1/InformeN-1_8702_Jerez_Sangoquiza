@@ -29,4 +29,62 @@ OBJETIVOS
 
 LISTA DE COMPONENTES
 
-| jkjhl |
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/Sin%20t%C3%ADtulo.jpg)
+
+MAPA DE VARIABLES
+
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/l.jpg)
+
+● Conjunto de elementos pasivos (resistencias) y elementos activos (fuente Dc). 
+
+● Los elementos pasivos desempeñan la funcionalidad de disipar o almacenar la corriente eléctrica. 
+
+● Los elementos activos desempeñan la funcionalidad de generar la corriente eléctrica. 
+
+● El protoboard es la mesa de trabajo donde se colocaran los diferentes elementos del circuito electrónico. 
+
+● Los elementos de medicion (multimetro) desempeñan la funcionalidad de medir los valores que entran o salen desde los elementos pasivo y activos. 
+
+EXPLICACION DEL CODIGO FUENTE
+
+● De manera resumida el software online Tinkercad es un programa el cual genera simulaciones de circuitos electrónicos, generando a través de los elementos pasivos y activos un voltaje (Voltios) y una corriente (Amperios), de los cuales nos devuelven los mismos valores entre sus componentes. 
+
+● A través de un plano ó circuito prescrito generamos nuestra simulación, la cual realizará los mismos fenómenos eléctricos que una representación física del mismo. 
+
+DESCRIPCION DE PRERREQUISITOS Y CONFIGURACIÓN
+
+TINKERCAD:
+Es un software de simulación de circuitos electrónicos el cual nos permite generar diferentes conexiones en un protoboard, lo cual a su vez sería un sistema eléctrico por el cual nosotros calcularemos sus valores de entrada o salida y los fenomenos electricos que se manifiestan en el circuito. 
+
+APORTACIONES
+
+● Podemos decir que el uso de las diferentes herramientas y software de medición para circuitos eléctricos, es una base fundamental en el desarrollo profesional de nuestra carrera, no solo al ser la piedra angular para poder entender el mecanismo electrónico de un a máquina en general. Sino que también es el medio por el cual nosotros entendemos e interpretamos los diferentes fenómenos eléctricos que llevan al funcionamiento de ese circuito. 
+
+● También este tipo de prácticas genera una mayor comprensión hacia lo que es el tema virtual y la simulación de circuitos, los cuales nos permiten detallar la situación que tienen el sistema en general.
+
+CONCUSIONES
+
+-Finalizada la práctica, se pudo concluir que fué necesario identificar la posición correcta del multímetro(Amperímetro y Voltímetro), de modo que para receptar el valor real del voltaje se lo debió posicionar paralelo al componente a medir, mientras que se colocó en serie para los valores de corriente. De no adecuarlos de esta forma, no fuese posible una lectura correcta de los valores para tensión como para los del amperaje. 
+
+-Analizada la implementación del voltímetro en el circuito, se concluye que de no identificar las magnitudes correctas para la lectura de alguna cantidad en concreto, puede haber una alteración perjudicial tanto en el medidor como en la malla. 
+ 
+RECOMENDACIONES
+
+-Antes de poner en funcionamiento el circuito, se recomienda haber verificado que los componentes a utilizar sean los necesarios, de lo contrario, cabe la posibilidad de quemar la malla. Este medida de precaución se logra aplicando leyes de voltaje y corriente de Kirchhoff a todos los elementos. 
+
+-Siempre es pertinente consultar con la persona acargo de la materia alguna duda que no nos permita avanzar con la practica.
+
+CRONOGRAMA
+
+![](
+
+BIBLIOGRAFIA
+
+-Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F. 
+
+-Richard C. Dorf y James A. Svoboda. (2006). Introduccion Circuitos Electronicos. 6ta Ed. John Willey & Sons, Inc. Mexico D.F.
+
+
+
+ 
+
