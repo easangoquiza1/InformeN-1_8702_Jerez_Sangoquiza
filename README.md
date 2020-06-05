@@ -90,7 +90,7 @@ BIBLIOGRAFIA
 ANEXOS
 REPRESENTACIÓN DE LAS CORRIENTES EN EL CIRCUITO:
 
-
+![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/Imgn1ci.png)
 
 HOJAS TECNICAS
 
