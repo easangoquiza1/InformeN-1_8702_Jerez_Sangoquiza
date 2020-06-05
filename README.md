@@ -81,13 +81,16 @@ CRONOGRAMA
 
 ![](https://github.com/easangoquiza1/InformeN-1_8702_Jerez_Sangoquiza/blob/master/Imagenes/Cronograma%20-%20Excel%204_6_2020%2020_20_11%20(2).png)
 
-ANEXOS
-
 BIBLIOGRAFIA
 
 -Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F. 
 
 -Richard C. Dorf y James A. Svoboda. (2006). Introduccion Circuitos Electronicos. 6ta Ed. John Willey & Sons, Inc. Mexico D.F.
+
+ANEXOS
+REPRESENTACIÓN DE LAS CORRIENTES EN EL CIRCUITO:
+
+
 
 HOJAS TECNICAS
 
